@@ -1,4 +1,4 @@
-# mpcs51045-spr23-project
+# path-tracing-engine
 
 ## Running CMake
 
